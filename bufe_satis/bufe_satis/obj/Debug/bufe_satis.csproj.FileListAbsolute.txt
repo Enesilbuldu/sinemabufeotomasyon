@@ -1,0 +1,10 @@
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\bin\Debug\bufe_satis.exe.config
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\bin\Debug\bufe_satis.exe
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\bin\Debug\bufe_satis.pdb
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.csproj.AssemblyReference.cache
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.Form1.resources
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.Properties.Resources.resources
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.csproj.GenerateResource.cache
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.csproj.CoreCompileInputs.cache
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.exe
+C:\Users\ilbul\source\repos\bufe_satis\bufe_satis\obj\Debug\bufe_satis.pdb
